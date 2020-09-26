@@ -1,5 +1,6 @@
 import React, { Component} from 'react';
 import Pacman from '../Pacman';
+import Ghost from '../Ghost';
 import "./style.css";
 
 class Board extends Component {
@@ -9,7 +10,7 @@ class Board extends Component {
                
                  {/* <Food /> */}
                    <Pacman /> 
-                   {/* <Ghost /> */}
+                   <Ghost /> 
                 {/* <Ghost /> */}
             </div>
         )
