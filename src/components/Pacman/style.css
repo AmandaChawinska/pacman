@@ -8,12 +8,10 @@
     outline: none;
 }
 
-.pacman-right{
 
-}
 
 .pacman-left {
-    transform:rotateY(180deg)
+    transform:rotateY(180deg);
 }
 
 .pacman-up {
