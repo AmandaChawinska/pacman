@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pacman/static/css/main.1f355f30.chunk.css",
+    "main.js": "/pacman/static/js/main.ce47b9f2.chunk.js",
+    "main.js.map": "/pacman/static/js/main.ce47b9f2.chunk.js.map",
+    "runtime-main.js": "/pacman/static/js/runtime-main.31137a62.js",
+    "runtime-main.js.map": "/pacman/static/js/runtime-main.31137a62.js.map",
+    "static/js/2.cb3068d3.chunk.js": "/pacman/static/js/2.cb3068d3.chunk.js",
+    "static/js/2.cb3068d3.chunk.js.map": "/pacman/static/js/2.cb3068d3.chunk.js.map",
+    "index.html": "/pacman/index.html",
+    "precache-manifest.86a5ec6884eb816216fba3faffa4c460.js": "/pacman/precache-manifest.86a5ec6884eb816216fba3faffa4c460.js",
+    "service-worker.js": "/pacman/service-worker.js",
+    "static/css/main.1f355f30.chunk.css.map": "/pacman/static/css/main.1f355f30.chunk.css.map",
+    "static/js/2.cb3068d3.chunk.js.LICENSE.txt": "/pacman/static/js/2.cb3068d3.chunk.js.LICENSE.txt",
+    "static/media/ghost.c504eec3.svg": "/pacman/static/media/ghost.c504eec3.svg",
+    "static/media/pacman.03edcd8c.svg": "/pacman/static/media/pacman.03edcd8c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31137a62.js",
+    "static/js/2.cb3068d3.chunk.js",
+    "static/css/main.1f355f30.chunk.css",
+    "static/js/main.ce47b9f2.chunk.js"
+  ]
+}
