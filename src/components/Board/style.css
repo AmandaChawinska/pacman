@@ -3,6 +3,5 @@
     background-color: #34495e;
     border: 10px #c0392b solid;
     height: calc(100vh - 50px - 10px - 10px);
-    weight: calc(100vw - 10px - 10px);
-
+    width: calc(100vw - 10px - 10px);
 }
